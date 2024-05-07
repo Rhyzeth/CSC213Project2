@@ -2,9 +2,7 @@ package edu.canisius.csc213.project2;
 
 import java.io.IOException;
 import edu.canisius.csc213.project2.quotes.*;
-
-import edu.canisius.csc213.project2.quotes.StockQuoteProvider;
-//Git URL: 
+//Git URL: https://github.com/Rhyzeth/CSC213Project2
 public class Controller {
 
     private StockQuote stockQuote;
